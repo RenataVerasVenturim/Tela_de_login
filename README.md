@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <text-align="center"><h1>Tela de login (HTML e CSS)</h1>
-  <img src="https://github.com/RenataVerasVenturim/Teladelogin/assets/129551549/93ecdc49-e744-4fa2-8d5b-9e1e8d973704"></img>
-
+  <h1 align="center">Tela de login (HTML, CSS e JS)</h1>
+  <p align="center">
+  <img src="https://github.com/RenataVerasVenturim/Tela_de_login/assets/129551549/d8015816-3427-4113-adb9-d5a40b2f5ae3" alt="Mobile view">
+  </p>
   
 </html>
