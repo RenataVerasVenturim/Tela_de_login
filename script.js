@@ -25,6 +25,7 @@ function verificar_acesso(){
                 }   
                 else{
                     window.alert('Acesso autorizado');
+                    window.open('https://renataverasventurim.github.io/Profile/');
                 }
             }
         }
