@@ -1,7 +1,8 @@
 /* CSS Document */
 
 header{
-font-size: medium;
+font-size: large;
+color:white;
 }
 
 body{
@@ -12,6 +13,7 @@ background-attachment:fixed;
 text-align:center;
 font-family: Verdana,Arial;
 font-size:medium;
+vertical-align: center;
 }
 
 #box1{
