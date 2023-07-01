@@ -2,7 +2,7 @@
 
 header{
 font-size: large;
-color:white;
+color:#fff;
 }
 
 body{
@@ -10,7 +10,7 @@ body{
 background-size: cover;
 background-repeat:no-repeat;
 background-attachment:fixed;*/
-background-color:#4503FC;
+background-image: linear-gradient(90deg,#41d8fa,#000);
 text-align:center;
 font-family: Verdana,Arial;
 font-size:medium;
@@ -33,12 +33,12 @@ input{
 }
 .botao{
     font-size: medium;
-    background-color: yellow;
+    background-image: linear-gradient(70deg, rgb(0, 200, 255),#fff);
     color:black;
     padding:10px;
 }
 .botao:hover{
-    background-color: rgb(248, 248, 93);
+    background-image: linear-gradient(70deg,rgb(137, 225, 250),#fff);
     color: black;
 }
 
