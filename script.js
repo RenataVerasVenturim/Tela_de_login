@@ -3,7 +3,6 @@
 /*Objetivo: Acessar programa via login*/
 
 
-/*Saída de dados*/
 function verificar_acesso(){
 
     /*Declaração das variáveis*/
@@ -13,7 +12,8 @@ function verificar_acesso(){
     
     email=document.f_login.f_email.value;
     senha=document.f_login.f_senha.value;
-    
+
+    /*Saída de dados*/
         
         if (email !== 'renata_venturim@hotmail.com'){
         
