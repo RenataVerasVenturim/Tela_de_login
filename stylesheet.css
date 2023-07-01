@@ -1,7 +1,7 @@
 /* CSS Document */
 
 header{
-font-size: 1vw;
+font-size: medium;
 }
 
 body{
@@ -11,7 +11,7 @@ background-repeat:no-repeat;
 background-attachment:fixed;
 text-align:center;
 font-family: Verdana,Arial;
-font-size:1vw;
+font-size:medium;
 }
 
 #box1{
@@ -20,7 +20,6 @@ align-items: center;
 height:60%;
 width:80%;
 max-width:350px;
-font-size: 2vw;
 margin:auto;
 vertical-align: middle;
 }
@@ -30,7 +29,7 @@ input{
     padding:3px;
 }
 .botao{
-    font-size: 2vw;
+    font-size: medium;
     background-color: yellow;
     color:black;
     padding:10px;
@@ -43,7 +42,7 @@ input{
 #creditos{
     text-align: center;
     color:gray;
-    font-size: 1vw;
+    font-size: small;
     margin-top: 20px;
     padding: 20px;
 }
